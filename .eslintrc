@@ -1,0 +1,7 @@
+{
+  "extends": "eslint-config-egg",
+  "rules":{
+    "strict":0,
+    "semi": ["never"]
+  }
+}
